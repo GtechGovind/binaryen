@@ -16,7 +16,7 @@
 
 //
 // Remove exports of empty defined functions, for runtimes that treat missing
-// exports as optional. Function bodies are left intact; run
+// exports as optional. The functions themselves are left intact; run
 // --remove-unused-module-elements afterwards to remove any that become unused.
 //
 
